@@ -35,26 +35,6 @@ Python        █████░░░░░  Getting there
 Godot         ████░░░░░░  Greenhorn
 ```
 
-### 📜 Bounty Board
-
-| Status | Job | Tools for the job |
-|:---:|---|---|
-| 🔥 Riding now | **The Cheques App**: helps merchants track cheques &amp; debts, and reads a cheque from a photo | Flutter · Supabase |
-| ✅ Collected | **[TaskFlow](https://github.com/Ahmad-slh/TaskFlow)**: a CRM built from scratch | JavaScript |
-| ✅ Collected | **[PMF City](https://github.com/Ahmad-slh/pmf-city-origin)**: a game made with Godot | GDScript |
-| ✅ Collected | **Dental Clinic System**: appointments, patients and clinic operations | Web |
-| ✅ Collected | **JustBreath** 🎓: an AI-powered digital stethoscope for lung disease detection | AI |
-
-### ⭐ Honor
-
-```text
-[+] IEEEXtreme ................. Rode in 2023, 2024 & 2025
-[+] Event Manager, IEEE ........ Led Xtreme (150+) & Engineering Festival (250+)
-[+] Public Relations, IEEE ..... 2024 - 2025
-[+] Graduated .................. BEng Computer Systems Engineering, 2026
-[+] Joined the gang ............ Software Engineer @ NewSoft, 2026
-```
-
 ### 🎒 Satchel
 
 <p align="center">
