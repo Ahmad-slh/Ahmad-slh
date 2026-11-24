@@ -5,8 +5,7 @@
 <p align="center">
   <a href="https://portfolio-henna-chi-uigt01j91u.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahmad-abu-arra/"><img src="https://img.shields.io/badge/LinkedIn-3B2F2F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/ahmad__abuarra/"><img src="https://img.shields.io/badge/Instagram-5C4033?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:aabuarra90@gmail.com"><img src="https://img.shields.io/badge/Telegraph%20me-A0522D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ahmad__abuarra/"><img src="https://img.shields.io/badge/Instagram-5C4033?style=for-the-badge&logo=instagram&logoColor=white" />  <a href="mailto:aabuarra90@gmail.com"><img src="https://img.shields.io/badge/Email-A0522D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
