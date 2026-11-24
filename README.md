@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Rye&size=30&duration=3500&pause=900&color=C0392B&center=true&vCenter=true&width=700&lines=Ahmad+Abu+Arra;Outlaw+Software+Engineer;Riding+out+of+Ramallah..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Rye&size=30&duration=3500&pause=900&color=C0392B&center=true&vCenter=true&width=700&lines=Ahmad+Saleh;Outlaw+Software+Engineer;Riding+out+of+Ramallah..." />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="./wanted.svg" width="440" alt="Wanted poster: Ahmad Abu Arra, alias The Debugger" />
+  <img src="./wanted.svg" width="440" alt="Wanted poster: Ahmad Saleh, alias The Debugger" />
 </p>
 
 ### 📓 From the Journal
@@ -21,7 +21,7 @@
 >
 > *Folks keep asking what I'm after. Simple: build things people actually use. Web, API, mobile. Whatever the job needs.*
 >
-> — A.A.
+> — A.S.
 
 ### 🐎 Skills
 
@@ -35,6 +35,26 @@ Python        █████░░░░░  Getting there
 Godot         ████░░░░░░  Greenhorn
 ```
 
+### 📜 Bounty Board
+
+| Status | Job | Tools for the job |
+|:---:|---|---|
+| 🔥 Riding now | **The Cheques App**: helps merchants track cheques &amp; debts, and reads a cheque from a photo | Flutter · Supabase |
+| ✅ Collected | **[TaskFlow](https://github.com/Ahmad-slh/TaskFlow)**: a CRM built from scratch | JavaScript |
+| ✅ Collected | **[PMF City](https://github.com/Ahmad-slh/pmf-city-origin)**: a game made with Godot | GDScript |
+| ✅ Collected | **Dental Clinic System**: appointments, patients and clinic operations | Web |
+| ✅ Collected | **JustBreath** 🎓: an AI-powered digital stethoscope for lung disease detection | AI |
+
+### ⭐ Honor
+
+```text
+[+] IEEEXtreme ................. Rode in 2023, 2024 & 2025
+[+] Event Manager, IEEE ........ Led Xtreme (150+) & Engineering Festival (250+)
+[+] Public Relations, IEEE ..... 2024 - 2025
+[+] Graduated .................. BEng Computer Systems Engineering, 2026
+[+] Joined the gang ............ Software Engineer @ NewSoft, 2026
+```
+
 ### 🎒 Satchel
 
 <p align="center">
@@ -44,7 +64,7 @@ Godot         ████░░░░░░  Greenhorn
 ### 🔥 Campfire Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmad-slh&show_icons=true&count_private=true&hide_border=true&bg_color=1a1410&title_color=C0392B&text_color=E8D8B0&icon_color=C0392B" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ahmad-slh&custom_title=Ahmad%20Saleh%27s%20GitHub%20Stats&show_icons=true&count_private=true&hide_border=true&bg_color=1a1410&title_color=C0392B&text_color=E8D8B0&icon_color=C0392B" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmad-slh&layout=compact&hide_border=true&bg_color=1a1410&title_color=C0392B&text_color=E8D8B0" />
 </p>
 
