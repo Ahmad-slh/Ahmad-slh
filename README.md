@@ -9,21 +9,9 @@
   <a href="mailto:aabuarra90@gmail.com"><img src="https://img.shields.io/badge/Telegraph%20me-A0522D?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-```text
-+================================================+
-|                  W A N T E D                   |
-|                DEAD OR DEPLOYED                |
-|                                                |
-|         AHMAD "THE DEBUGGER" ABU ARRA          |
-|                                                |
-|       For crimes against bugs across the       |
-|       territories of .NET, Flutter & Web       |
-|                                                |
-|    Last seen: Ramallah, riding with NewSoft    |
-|                                                |
-|       REWARD: $500 & a hot cup of coffee       |
-+================================================+
-```
+<p align="center">
+  <img src="./wanted.svg" width="440" alt="Wanted poster: Ahmad Abu Arra, alias The Debugger" />
+</p>
 
 ### 📓 From the Journal
 
