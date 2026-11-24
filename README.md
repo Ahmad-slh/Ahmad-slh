@@ -17,43 +17,9 @@
 
 > *Woke up before the sun again. The servers were quiet, the coffee was strong, and somewhere out there a bug was waiting for me.*
 >
-> *Rode with the IEEE boys for a few years. Ran camps for 250 folks at a time and fought in IEEEXtreme three winters straight. Then I graduated, put on a proper hat, and signed on with the NewSoft gang.*
->
 > *Folks keep asking what I'm after. Simple: build things people actually use. Web, API, mobile. Whatever the job needs.*
 >
 > — A.S.
-
-### 🐎 Skills
-
-```text
-C# / .NET     ████████░░  Seasoned
-Flutter/Dart  ███████░░░  Sharp
-SQL           ███████░░░  Sharp
-JavaScript    ██████░░░░  Steady
-C++           ██████░░░░  Steady
-Python        █████░░░░░  Getting there
-Godot         ████░░░░░░  Greenhorn
-```
-
-### 📜 Bounty Board
-
-| Status | Job | Tools for the job |
-|:---:|---|---|
-| 🔥 Riding now | **The Cheques App**: helps merchants track cheques &amp; debts, and reads a cheque from a photo | Flutter · Supabase |
-| ✅ Collected | **[TaskFlow](https://github.com/Ahmad-slh/TaskFlow)**: a CRM built from scratch | JavaScript |
-| ✅ Collected | **[PMF City](https://github.com/Ahmad-slh/pmf-city-origin)**: a game made with Godot | GDScript |
-| ✅ Collected | **Dental Clinic System**: appointments, patients and clinic operations | Web |
-| ✅ Collected | **JustBreath** 🎓: an AI-powered digital stethoscope for lung disease detection | AI |
-
-### ⭐ Honor
-
-```text
-[+] IEEEXtreme ................. Rode in 2023, 2024 & 2025
-[+] Event Manager, IEEE ........ Led Xtreme (150+) & Engineering Festival (250+)
-[+] Public Relations, IEEE ..... 2024 - 2025
-[+] Graduated .................. BEng Computer Systems Engineering, 2026
-[+] Joined the gang ............ Software Engineer @ NewSoft, 2026
-```
 
 ### 🎒 Satchel
 
