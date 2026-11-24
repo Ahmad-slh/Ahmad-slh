@@ -20,15 +20,6 @@ Home base:  Ramallah, Palestine
 Origin:     Computer Systems Engineering @ Arab American University
 Main quest: Build apps people actually use (web, API & mobile)
 ```
-### 🏆 Achievements Unlocked
-
-```text
-🥇 IEEEXtreme Competitor ........ x3  (2023 · 2024 · 2025)
-🎪 Event Manager, IEEE .......... Led Xtreme (150+ players) & Engineering Festival (250+)
-📣 Public Relations, IEEE ....... Unlocked 2024
-🎓 Graduated .................... BEng Computer Systems Engineering, 2026
-💼 Joined a Guild ............... Software Engineer @ NewSoft, 2026
-```
 
 ### 🎒 Inventory
 
