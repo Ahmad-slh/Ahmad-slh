@@ -12,7 +12,7 @@
 ### 🎮 Character Sheet
 
 ```yaml
-Player:     Ahmad Abu Arra
+Player:     Ahmad Saleh
 Class:      Software Engineer
 Level:      23
 Guild:      NewSoft
@@ -20,29 +20,6 @@ Home base:  Ramallah, Palestine
 Origin:     Computer Systems Engineering @ Arab American University
 Main quest: Build apps people actually use (web, API & mobile)
 ```
-
-### ⚔️ Skills
-
-```text
-C# / .NET     ████████░░  Lv.8
-Flutter/Dart  ███████░░░  Lv.7
-SQL           ███████░░░  Lv.7
-JavaScript    ██████░░░░  Lv.6
-C++           ██████░░░░  Lv.6
-Python        █████░░░░░  Lv.5
-Godot         ████░░░░░░  Lv.4
-```
-
-### 📜 Quest Log
-
-| Status | Quest | Loot |
-|:---:|---|---|
-| 🟡 In progress | **Ship the Cheques App**: track cheques &amp; debts, and read a cheque from a photo | Flutter · Supabase |
-| ✅ Complete | **[TaskFlow](https://github.com/Ahmad-slh/TaskFlow)**: a CRM built from scratch | JavaScript |
-| ✅ Complete | **[PMF City](https://github.com/Ahmad-slh/pmf-city-origin)**: a game made with Godot | GDScript |
-| ✅ Complete | **Dental Clinic System**: appointments, patients and clinic operations | Web |
-| ✅ Complete | **JustBreath** (boss level 🎓): an AI-powered digital stethoscope for lung disease detection | AI |
-
 ### 🏆 Achievements Unlocked
 
 ```text
